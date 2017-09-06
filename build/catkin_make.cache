@@ -1,0 +1,2 @@
+Scripts/poly_crier
+-DCATKIN_DEVEL_PREFIX=/home/samuel/ROSfiles/devel -DCMAKE_INSTALL_PREFIX=/home/samuel/ROSfiles/install -G Unix Makefiles

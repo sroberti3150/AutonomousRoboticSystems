@@ -1,0 +1,8 @@
+prefix=/home/samuel/ROSfiles/devel
+
+Name: poly_crier
+Description: Description of poly_crier
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/samuel/ROSfiles/devel/lib 
+Requires: 
