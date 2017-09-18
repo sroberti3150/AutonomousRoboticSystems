@@ -17,8 +17,13 @@ def poly_talker():
 		rospy.loginfo(output)
 		pub.publish(output)
 		rate.sleep()
-def init():
+def main():
 	try:
 		poly_talker()
 	except rospy.ROSInterruptException:
 		pass
+
+
+if __name__ == '__main__':
+	main()
+
